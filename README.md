@@ -1,1 +1,1 @@
-# MDC_VGSOM_2026
+# MDC
