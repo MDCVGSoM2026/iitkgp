@@ -297,6 +297,9 @@ body {
     max-width: 45%;
     padding: 1.5rem 1rem;
   }
+  .navbar-toggler{
+  display:none !important;
+  }
   .badge {
     font-size: 15px;
     background: rgba(255, 204, 0, 0.15);
