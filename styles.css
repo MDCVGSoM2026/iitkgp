@@ -333,3 +333,12 @@ font-size: 15px;
     --bs-text-opacity: 1;
     color: #ffc107 !important;
 }
+#venue .venue-card {
+  min-height: 100%;
+  text-align: left;
+}
+
+#venue a:hover {
+  text-decoration: underline;
+}
+
