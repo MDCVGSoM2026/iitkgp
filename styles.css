@@ -301,7 +301,7 @@ body {
   display:none !important;
   }
   .badge {
-    font-size: 15px;
+    font-size: 21px;
     background: rgba(255, 204, 0, 0.15);
     color: var(--accent);
     border-radius: 999px;
